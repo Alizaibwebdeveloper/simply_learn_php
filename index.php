@@ -18,12 +18,25 @@
 // define("laptop","hp, lenovo and Toshiba");
 // echo "laptop";
 
-$var = 8;
-if($var>7){
-    echo " You fulfilll the given condition!";
-}else{
-    echo "plzz fulfill the condition first!";
+// $var = 8;
+// if($var>7){
+//     echo " You fulfilll the given condition!";
+// }else{
+//     echo "plzz fulfill the condition first!";
+// }
+
+
+$var = 3;
+
+while($var<=15){
+ echo $var;
+ $var++;
+
+
 }
+
+
+
 
     ?>
 </body>
